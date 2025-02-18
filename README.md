@@ -1,6 +1,4 @@
-Here is the raw text for the `README.md`:
 
-```
 # Cache Proxy with Fiber
 
 This is a simple cache proxy implementation using the **Fiber** framework in Go. The proxy server stores responses from the source server in cache files. When the same URL is requested again, the server will return the cached data (if available) to speed up the response time.
@@ -88,7 +86,4 @@ Once the proxy is set up, your browser will route all HTTP requests to the proxy
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This is the raw text version of the `README.md` without any additional formatting or features. You can copy and paste this directly into your project's `README.md` file.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute this code as you see fit. If you find this
